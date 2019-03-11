@@ -1,0 +1,71 @@
+STEP INSTALL NEW THEME
+-----------------------
+AVADA
+#1
+- Login to wordpress
+- Click Customize
+#1-1
+- Click Menus
+- Click Menu Utama
+- Check "Main Navigation"
+- Click Menu Desa
+- Check "Top Navigation" and "Mobile Navigation" and "Sticky Header Navigation"
+#1-2
+- Back and Click Static Front Page
+- Choose Your Latest Posts
+
+HOTTOPIX
+#1
+- Login to wordpress
+- Click Customize
+#1-1
+- Click Menus
+- Click Menu Utama
+- Check "Secondary Menu" and "Footer Menu"
+- Click Menu Desa
+- Check "Primary Menu"
+#1-2
+- Back and Click Static Front Page
+- Choose Your Latest Posts
+#1-3
+- Back and choose menu Colors
+- change color to #cccccc
+
+NEWSPAPER
+#1
+- Login to wordpress
+- Click Customize
+#1-1
+- Click Menus
+- Click Menu Utama
+- Check "Top Header Menu" and "Footer Menu"
+- Click Menu Desa
+- Check "Header Menu"
+#1-2
+- Back and Click Static Front Page
+- Choose Your Latest Posts
+
+
+CENTRAL
+#1
+- Login to wordpress
+
+- Click Customize
+#1-1
+- Click Menus
+- Click Menu Utama
+- Check "Top Navigation"
+#1-2
+- Back and Click Static Front Page
+- Choose Your Latest Posts
+
+
+
+----------------------------------------------
+#2
+- After login
+- Click Posts
+- edit Post
+- Click Featured Post on bottom of the page
+- Choose Image
+- Click Update
